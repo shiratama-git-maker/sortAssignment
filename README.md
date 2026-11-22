@@ -1,29 +1,31 @@
-# ƒ\[ƒgÀ‘•‰Û‘è
+# ã‚½ãƒ¼ãƒˆå®Ÿè£…èª²é¡Œ
 
-## ŠJ”­ŠÂ‹«
+## é–‹ç™ºç’°å¢ƒ
 - OS: Windows
 - Java: amazon-corretto jdk25.0.5_1
-- •¶šƒR[ƒh: ƒ\[ƒXƒtƒ@ƒCƒ‹^UTF-8Aƒoƒbƒ`ƒtƒ@ƒCƒ‹^Shift-JIS (CP932)
+- æ–‡å­—ã‚³ãƒ¼ãƒ‰: ã‚½ãƒ¼ã‚¹ãƒ•ã‚¡ã‚¤ãƒ«ï¼UTF-8ã€ãƒãƒƒãƒãƒ•ã‚¡ã‚¤ãƒ«ï¼Shift-JIS (CP932)
 
-## ƒtƒHƒ‹ƒ_\¬
+## ãƒ•ã‚©ãƒ«ãƒ€æ§‹æˆ
+```
 sortAssignment
-„¥„Ÿ compile.bat
-„¥„Ÿ run.bat
-„¥„Ÿ README.md
-„¤„Ÿ sort
-   „¥„Ÿ bin
-   „   „¥„Ÿ Common.java
-   „   „¥„Ÿ MergeSort.java
-   „   „¤„Ÿ QuickSort.java
-   „¤„Ÿ src
-       „¥„Ÿ Common.class
-       „¥„Ÿ MergeSort.class
-       „¤„Ÿ QuickSort.class
+â”œâ”€ compile.bat
+â”œâ”€ run.bat
+â”œâ”€ README.md
+â””â”€ sort
+   â”œâ”€ bin
+   â”‚  â”œâ”€ Common.java
+   â”‚  â”œâ”€ MergeSort.java
+   â”‚  â””â”€ QuickSort.java
+   â””â”€ src
+       â”œâ”€ Common.class
+       â”œâ”€ MergeSort.class
+       â””â”€ QuickSort.class
+```
 
-## ƒoƒbƒ`ƒtƒ@ƒCƒ‹‚Ìg‚¢•û
+## ãƒãƒƒãƒãƒ•ã‚¡ã‚¤ãƒ«ã®ä½¿ã„æ–¹
 <dl>
   <dt>compile.bat</dt>
-      <dd>srcƒtƒHƒ‹ƒ_“à‚Ìjavaƒ\[ƒX‚ğ‚·‚×‚ÄƒRƒ“ƒpƒCƒ‹</dd>
+      <dd>srcãƒ•ã‚©ãƒ«ãƒ€å†…ã®javaã‚½ãƒ¼ã‚¹ã‚’ã™ã¹ã¦ã‚³ãƒ³ãƒ‘ã‚¤ãƒ«</dd>
   <dt>run.bat</dt>
-      <dd>Às‚·‚éƒ\[ƒgA¸‡^~‡Aƒ\[ƒg‘ÎÛ•¶š—ñ‚Ì“ü—Í‚ğ‹‚ßA‘ÎÛ‚Ìƒ\[ƒg‚ğƒLƒbƒN</dd>
+      <dd>å®Ÿè¡Œã™ã‚‹ã‚½ãƒ¼ãƒˆã€æ˜‡é †ï¼é™é †ã€ã‚½ãƒ¼ãƒˆå¯¾è±¡æ–‡å­—åˆ—ã®å…¥åŠ›ã‚’æ±‚ã‚ã€å¯¾è±¡ã®ã‚½ãƒ¼ãƒˆã‚’ã‚­ãƒƒã‚¯</dd>
 </dl> 
