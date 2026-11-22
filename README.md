@@ -1,2 +1,29 @@
-# sortAssignment
-ã‚½ãƒ¼ãƒˆå®Ÿè£…èª²é¡Œ
+# ƒ\[ƒgÀ‘•‰Û‘è
+
+## ŠJ”­ŠÂ‹«
+- OS: Windows
+- Java: amazon-corretto jdk25.0.5_1
+- •¶šƒR[ƒh: ƒ\[ƒXƒtƒ@ƒCƒ‹^UTF-8Aƒoƒbƒ`ƒtƒ@ƒCƒ‹^Shift-JIS (CP932)
+
+## ƒtƒHƒ‹ƒ_\¬
+sortAssignment
+„¥„Ÿ compile.bat
+„¥„Ÿ run.bat
+„¥„Ÿ README.md
+„¤„Ÿ sort
+   „¥„Ÿ bin
+   „   „¥„Ÿ Common.java
+   „   „¥„Ÿ MergeSort.java
+   „   „¤„Ÿ QuickSort.java
+   „¤„Ÿ src
+       „¥„Ÿ Common.class
+       „¥„Ÿ MergeSort.class
+       „¤„Ÿ QuickSort.class
+
+## ƒoƒbƒ`ƒtƒ@ƒCƒ‹‚Ìg‚¢•û
+<dl>
+  <dt>compile.bat</dt>
+      <dd>srcƒtƒHƒ‹ƒ_“à‚Ìjavaƒ\[ƒX‚ğ‚·‚×‚ÄƒRƒ“ƒpƒCƒ‹</dd>
+  <dt>run.bat</dt>
+      <dd>Às‚·‚éƒ\[ƒgA¸‡^~‡Aƒ\[ƒg‘ÎÛ•¶š—ñ‚Ì“ü—Í‚ğ‹‚ßA‘ÎÛ‚Ìƒ\[ƒg‚ğƒLƒbƒN</dd>
+</dl> 
